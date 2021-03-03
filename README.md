@@ -11,9 +11,6 @@
 <br />
 
 ## Hobbies
-
----
-
 <img align="left" alt="Car" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Circle-icons-car.svg/1200px-Circle-icons-car.svg.png"/>
 <img align="left" alt="Linux" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png"/>
 <img align="left" alt="PC" width="40px" src="https://cdn.icon-icons.com/icons2/1367/PNG/512/32officeicons-31_89708.png"/>
