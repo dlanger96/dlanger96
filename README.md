@@ -8,6 +8,18 @@
 - I'm interested in ERP development 
 - I'm currently learning JavaScript
 - Fun facts: I love everything about computers, IT, but cars are my passion
+<br />
+
+## Hobbies
+
+<img align="left" alt="Car" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Circle-icons-car.svg/1200px-Circle-icons-car.svg.png"/>
+<img align="left" alt="Linux" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png"/>
+<img align="left" alt="PC" width="40px" src="https://cdn.icon-icons.com/icons2/1367/PNG/512/32officeicons-31_89708.png"/>
+<img align="left" alt="Gaming" width="40px" src="https://images.vexels.com/media/users/3/127792/isolated/preview/19ed433991134a2ad4fcf6bad060c7a6-gaming-joystick-icon-by-vexels.png"/>
+
+
+<br />
+<br />
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
