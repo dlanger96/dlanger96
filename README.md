@@ -21,12 +21,15 @@
 <br />
 <br />
 
+---
+
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="Facebook" width="40px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png"/>][facebook]
 [<img align="left" alt="Email" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4b6ReRuXbjvhB06vVFhcH3DdEbABaJGdVXA&usqp=CAU"/>][email]
----
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -42,6 +45,12 @@
 
 ---
 <img align="left" alt="dlanger96 Github Stats" src="https://github-readme-stats.vercel.app/api?username=dlanger96&show_icons=true&hide_border=true&count_private=true&theme=onedark" />
+
+
+<br />
+
+
+
 
 [linkedin]: https://linkedin.com/in/dominik-langer-a166a8206
 [facebook]: https://www.facebook.com/profile.php?id=100000284663151
