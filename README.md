@@ -4,7 +4,8 @@
 
 - Bachelor of Informatics [<img align="left" alt="foi" width="40px" src="https://projekti.hr/sites/default/files/2016-09/foi-logo.jpg"/>][foi] 
 
-## I am a fifth year student at the Faculty of Organization and Informatics in Varaždin.
+## About
+- I am a fifth year student at the Faculty of Organization and Informatics in Varaždin.
 - I'm interested in ERP development 
 - I'm currently learning JavaScript
 - Fun facts: I love everything about computers, IT, but cars are my passion
