@@ -6,7 +6,6 @@
 
 ## About
 - I am a fifth year student at the Faculty of Organization and Informatics in Varaždin 👨‍🎓
-- I'm interested in ERP development 👨‍💻 
 - I'm currently learning JavaScript 🕸
 - Fun facts: I love everything about computers, IT, but cars are my passion
 <br />
