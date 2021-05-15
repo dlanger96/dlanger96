@@ -2,7 +2,7 @@
 
 ## Life achievements
 
-- Bachelor of Informatics [<img align="left" alt="foi" width="40px" src="https://www.foi.unizg.hr/sites/default/files/upisi/foi-ribon.png"/>][foi] 
+- Bachelor of Informatics [<img align="left" alt="foi" width="40px" src="https://www.foi.unizg.hr/sites/default/files/field/image/foi_crveno_profilna.png?slideshow=true&slideshowAuto=false&slideshowSpeed=4000&speed=350&transition=elastic"/>][foi] 
 
 ## About
 - I am a fifth year student at the Faculty of Organization and Informatics in Varaždin 👨‍🎓
